@@ -1,7 +1,7 @@
 
-# repoName
+# NutriLens-Keerat666
 
-# About repoName
+Backend for the React Native application that tracks allergs and nutrition for any food product.
 
 
 
